@@ -7,4 +7,4 @@
 
 Follow me on my Instagram
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-SlateBlue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jr__ulisses/)](https://www.instagram.com/jr__ulisses/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-slateblue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jr__ulisses/)](https://www.instagram.com/jr__ulisses/)
