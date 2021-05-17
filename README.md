@@ -5,7 +5,7 @@
 - 📚 Since 2020 I study at CTIG-UNESP, currently I am in the second year
 - 💻 Probably a future Front-End 
 
-Follow me on Instagram
+# Follow me on Instagram
 
 <a target='_blank' href="https://www.instagram.com/jr__ulisses">
 <img src="https://img.shields.io/badge/Instagram-slateblue?style=for-the-badge&logo=instagram&logoColor=white">
