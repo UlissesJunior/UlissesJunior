@@ -9,3 +9,5 @@
 
 <a target='_blank' href="https://www.instagram.com/jr__ulisses">
 <img src="https://img.shields.io/badge/Instagram-slateblue?style=for-the-badge&logo=instagram&logoColor=white">
+  
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-slateblue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jr__ulisses/)](https://www.instagram.com/jr__ulisses/)
