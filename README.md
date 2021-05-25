@@ -7,6 +7,6 @@
 
 ### Social Networks
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmailﾠﾠﾠ-rgb(244,67,54)?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ulissesjunior2005@gmail.com)](mailto:ulissesjunior2005@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-slateblue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jr__ulisses/)](https://www.instagram.com/jr__ulisses/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-#F44336?style=flat-square&logo=Instagram&logoColor=white&link=mailto:ulissesjunior2005@gmail.com)](mailto:ulissesjunior2005@gmail.com)
 
