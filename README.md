@@ -8,3 +8,5 @@
 ### Social Networks
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-slateblue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jr__ulisses/)](https://www.instagram.com/jr__ulisses/)
+
+<a href="mailto:ulissesjunior2005@gmail.com">E-mail</a>
