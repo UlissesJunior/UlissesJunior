@@ -3,7 +3,7 @@
 - 🇧🇷 I'm fifteen years old
 - 📍 Aparecida-SP
 - 📚 Since 2020 I study at CTIG-UNESP, currently I am in the second year
-- 💻 Probably a future Front-End 
+- 💻 Front-End Developer
 
 ### Social Networks
 
