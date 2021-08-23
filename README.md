@@ -34,3 +34,11 @@
 <a href="https://www.instagram.com/jr__ulisses" target="_blank"><img src="https://img.shields.io/badge/-Instagram Pessoal-rgba(43, 43, 43, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
 </div>
 
+<div align="center">
+<h3>Github Stats</h3>
+</div>
+
+<div align="center"> 
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=UlissesJunior&show_icons=true&t&theme=radical"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesJunior&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=radical"/>
+</div>
