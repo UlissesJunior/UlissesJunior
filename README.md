@@ -1,5 +1,9 @@
-## Hey Guys, I'm Ulisses
-  
+![Header](./Header_CodeByPixel.png)
+
+<div align="center"> 
+<h3>Hey Guys, I'm Ulisses Junior</h3>
+</div>
+
 - 🇧🇷 I'm sixteen years old
 - 📍 Aparecida-SP
 - 📚 Since 2020 I study at CTIG-UNESP, currently I am in the second year
