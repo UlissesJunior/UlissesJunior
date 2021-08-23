@@ -15,9 +15,12 @@
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F7E018?style=flat-square&logo=JavaScript&logoColor=black)
 [![Figma Badge](https://img.shields.io/badge/-Figma-9147FF?style=flat-square&logo=Figma&logoColor=white&link=https://figma.com/@jr__ulisses)](https://figma.com/@jr__ulisses)
 
-### Social Networks 🌐
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-rgb(244,67,54)?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ulissesjunior2005@gmail.com)](mailto:ulissesjunior2005@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1F4590?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulisses-junior/)](https://www.linkedin.com/in/ulisses-junior/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-slateblue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jr__ulisses/)](https://www.instagram.com/jr__ulisses/)
+### Social Networks 🌐
+<div align="center"> 
+<a href="https://www.instagram.com/jr__ulisses" target="_blank"><img src="https://img.shields.io/badge/-Instagram Pessoal-rgba(167, 104, 232, 1)?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/codebypixel" target="_blank"><img src="https://img.shields.io/badge/-Instagram Comercial-rgba(154, 127, 225, 1)?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:codebypixel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-rgba(141, 151, 219, 1)?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ulisses-junior/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-rgba(112, 147, 212, 1)?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
