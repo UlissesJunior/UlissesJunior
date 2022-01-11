@@ -18,7 +18,9 @@
 <a target="_blank"><img src="https://img.shields.io/badge/-HTML5-rgba(43, 43, 43, 1)?style=for-the-badge&logo=html5&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-CSS3-rgba(43, 43, 43, 1)?style=for-the-badge&logo=css3&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-SASS-rgba(43, 43, 43, 1)?style=for-the-badge&logo=sass&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-JAVASCRIPT-rgba(43, 43, 43, 1)?style=for-the-badge&logo=javascript&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-JAVASCRIPT-rgba(43, 43, 43, 1)?style=for-the-badge&logo=javascript&logoColor=rgba(167, 104, 232, 1)" target="_blank">
+<a target="_blank"><img src="https://img.shields.io/badge/-REACT-rgba(43, 43, 43, 1)?style=for-the-badge&logo=react&logoColor=rgba(167, 104, 232, 1)" target="_blank">
+</a>
   
 </div>
 
