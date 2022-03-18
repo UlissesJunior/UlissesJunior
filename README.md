@@ -42,5 +42,5 @@
 
 <div align="center"> 
 <img height="220em" src="https://github-readme-stats.vercel.app/api?username=UlissesJunior&show_icons=true&t&theme=radical"/>
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesJunior&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=radical"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesJunior&langs_count=5)](https://github.com/anuraghazra/github-readme-statsCompact&theme=radical"/>
 </div>
