@@ -15,11 +15,11 @@
 
 <div align="center">
   
-<a target="_blank"><img src="https://img.shields.io/badge/-HTML5-rgba(43, 43, 43, 1)?style=for-the-badge&logo=html5&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-CSS3-rgba(43, 43, 43, 1)?style=for-the-badge&logo=css3&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-SASS-rgba(43, 43, 43, 1)?style=for-the-badge&logo=sass&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-JAVASCRIPT-rgba(43, 43, 43, 1)?style=for-the-badge&logo=javascript&logoColor=rgba(167, 104, 232, 1)" target="_blank">
-<a target="_blank"><img src="https://img.shields.io/badge/-REACT-rgba(43, 43, 43, 1)?style=for-the-badge&logo=react&logoColor=rgba(167, 104, 232, 1)" target="_blank">
+<a target="_blank"><img src="https://img.shields.io/badge/-HTML5-rgba(21, 23, 24, 1)?style=for-the-badge&logo=html5&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-CSS3-rgba(21, 23, 24, 1)?style=for-the-badge&logo=css3&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-SASS-rgba(21, 23, 24, 1)?style=for-the-badge&logo=sass&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-JAVASCRIPT-rgba(21, 23, 24, 1)?style=for-the-badge&logo=javascript&logoColor=rgba(145, 116, 228, 1)" target="_blank">
+<a target="_blank"><img src="https://img.shields.io/badge/-REACT-rgba(21, 23, 24, 1)?style=for-the-badge&logo=react&logoColor=rgba(145, 116, 228, 1)" target="_blank">
 </a>
   
 </div>
@@ -29,11 +29,11 @@
 </div>
 
 <div align="center"> 
-<a href="https://www.instagram.com/codebypixel" target="_blank"><img src="https://img.shields.io/badge/-Instagram Comercial-rgba(43, 43, 43, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
-<a href="mailto:codebypixel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-rgba(43, 43, 43, 1)?style=for-the-badge&logo=gmail&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
-<a href="https://www.figma.com/@jr__ulisses" target="_blank"><img src="https://img.shields.io/badge/-Figma-rgba(43, 43, 43, 1)?style=for-the-badge&logo=figma&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ulisses-junior/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-rgba(43, 43, 43, 1)?style=for-the-badge&logo=linkedin&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
-<a href="https://www.instagram.com/jr__ulisses" target="_blank"><img src="https://img.shields.io/badge/-Instagram Pessoal-rgba(43, 43, 43, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(167, 104, 232, 1)" target="_blank"></a>
+<a href="https://www.instagram.com/codebypixel" target="_blank"><img src="https://img.shields.io/badge/-Instagram Comercial-rgba(21, 23, 24, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
+<a href="mailto:codebypixel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-rgba(21, 23, 24, 1)?style=for-the-badge&logo=gmail&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
+<a href="https://www.figma.com/@jr__ulisses" target="_blank"><img src="https://img.shields.io/badge/-Figma-rgba(21, 23, 24, 1)?style=for-the-badge&logo=figma&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ulisses-junior/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-rgba(21, 23, 24, 1)?style=for-the-badge&logo=linkedin&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
+<a href="https://www.instagram.com/jr__ulisses" target="_blank"><img src="https://img.shields.io/badge/-Instagram Pessoal-rgba(21, 23, 24, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
 </div>
 
 <div align="center">
@@ -41,6 +41,6 @@
 </div>
 
 <div align="center"> 
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=UlissesJunior&show_icons=true&t&theme=radical"/>
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesJunior&langs_count=5)](https://github.com/anuraghazra/github-readme-statsCompact&theme=radical"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=UlissesJunior&show_icons=true&t&theme=aura"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesJunior&langs_count=5)](https://github.com/anuraghazra/github-readme-statsCompact&theme=aura"/>
 </div>
