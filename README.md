@@ -5,7 +5,7 @@
 </div>
 
 - 💻 Front-End Developer / Web Designer
-- 🇧🇷 I'm 16 years old
+- 🇧🇷 I'm 17 years old
 - 📚 Since 2020 I study at CTIG-UNESP, currently I am in the third year
 - 📍 Aparecida-SP
 
