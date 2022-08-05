@@ -22,6 +22,7 @@
 </a>
   <div>
       <a href="https://www.figma.com/@jr__ulisses" target="_blank"><img src="https://img.shields.io/badge/-Figma-rgba(21, 23, 24, 1)?style=for-the-badge&logo=figma&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a> 
+        <a target="_blank"><img src="https://img.shields.io/badge/-Supabase-rgba(21, 23, 24, 1)?style=for-the-badge&logo=supabase&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a> 
        <a target="_blank"><img src="https://img.shields.io/badge/-Git-rgba(21, 23, 24, 1)?style=for-the-badge&logo=git&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a> 
       <a href="https://www.behance.net/codebypixel" target="_blank"><img src="https://img.shields.io/badge/-Behance-rgba(21, 23, 24, 1)?style=for-the-badge&logo=behance&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a> 
   </div>
