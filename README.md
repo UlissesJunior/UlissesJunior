@@ -33,10 +33,10 @@
 </div>
 
 <div align="center"> 
+<a href="https://medium.com/@codebypixel" target="_blank"><img src="https://img.shields.io/badge/-Medium-rgba(21, 23, 24, 1)?style=for-the-badge&logo=medium&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
 <a href="https://www.instagram.com/codebypixel" target="_blank"><img src="https://img.shields.io/badge/-Instagram Comercial-rgba(21, 23, 24, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
 <a href="mailto:codebypixel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-rgba(21, 23, 24, 1)?style=for-the-badge&logo=gmail&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ulisses-junior/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-rgba(21, 23, 24, 1)?style=for-the-badge&logo=linkedin&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
-<a href="https://www.instagram.com/jr__ulisses" target="_blank"><img src="https://img.shields.io/badge/-Instagram Pessoal-rgba(21, 23, 24, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(145, 116, 228, 1)" target="_blank"></a>
 </div>
 
 <div align="center">
