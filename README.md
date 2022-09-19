@@ -1,4 +1,4 @@
-![Header](./Header_CodeByPixel.png)
+![Header](./Header_OpenToWork.png)
 
 <div align="center">
 <h3>Hey Guys, I'm Ulisses Junior</h3>
