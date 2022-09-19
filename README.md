@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Header](./Header_OpenToWork.png)
+
+</div>
 
 <div align="center">
 <h3>Hey Guys, I'm Ulisses Junior</h3>
