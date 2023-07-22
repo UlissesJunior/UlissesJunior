@@ -9,7 +9,7 @@
 </div>
 
 - 💻 Front-End Developer / Web Designer
-- 🇧🇷 I'm 17 years old
+- 🇧🇷 I'm 18 years old
 - 📚 Technical degree in Industrial Automation 
 - 🎓 Since 2023, I'm pursuing a degree in Control and Automation Engineering at UNIFEI (Universidade Federal de Itajubá).
 - 📍 Aparecida-SP
