@@ -57,6 +57,6 @@
 </div>
 
 <div align="center"> 
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=UlissesJunior&show_icons=true&t&theme=aura"/>
-  <img height="220em" src="https://leetcard.jacoblin.cool/UlissesJunior?theme=unicorn&font=Montserrat&ext=heatmap"/>
+  <img width="40%" height="220em" src="https://github-readme-stats.vercel.app/api?username=UlissesJunior&show_icons=true&t&theme=aura"/>
+  <img width="40%" height="220em" src="https://leetcard.jacoblin.cool/UlissesJunior?theme=nord&font=Montserrat&ext=heatmap"/>
 </div>
